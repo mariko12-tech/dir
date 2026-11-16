@@ -14,7 +14,7 @@ replace (
 replace github.com/ThalesIgnite/crypto11 => github.com/eclipse-keypont/crypto11 v1.6.8
 
 require (
-	buf.build/gen/go/agntcy/oasf/protocolbuffers/go v1.36.12-20261006093657-2c7c88d8533b.2
+	buf.build/gen/go/agntcy/oasf/protocolbuffers/go v1.36.12-20261106120914-497c7a1ca059.2
 	github.com/agntcy/dir/api v1.9.0
 	github.com/agntcy/dir/client v1.9.0
 	github.com/agntcy/dir/server v1.9.0
